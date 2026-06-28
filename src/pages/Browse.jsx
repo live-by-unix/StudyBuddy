@@ -13,11 +13,11 @@ export default function Browse() {
           <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">
             Find your{" "}
             <span className="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
-              study buddy
+              buddy
             </span>
           </h1>
           <p className="text-muted-foreground mt-3 max-w-xl mx-auto">
-            Browse learners by topic — no sign-in needed. Sign in only when you want to post your own profile.
+            Browse people by topic — no sign-in needed. Sign in only when you want to post your own profile.
           </p>
         </div>
       </section>
