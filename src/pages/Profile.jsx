@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { SignedIn, SignedOut, SignIn } from "@clerk/clerk-react";
-import Navbar from "@/components/FindABuddy/Navbar";
-import ProfileForm from "@/components/FindABuddy/ProfileForm";
-import BuddiesGrid from "@/components/FindABuddy/BuddiesGrid";
+import Navbar from "@/components/studybuddies/Navbar";
+import ProfileForm from "@/components/studybuddies/ProfileForm";
+import BuddiesGrid from "@/components/studybuddies/BuddiesGrid";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 
 export default function Profile() {
